@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jmdinela
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning to make a website
+- 👀 I’m a programmer
 - 💞️ I’m looking to collaborate with a team
 - 📫 How to reach me 
 
