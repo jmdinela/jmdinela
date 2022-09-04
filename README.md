@@ -56,6 +56,6 @@
 
 ###
 
-<details><summary>Currently Planning Event✨</summary><br>
+<details><summary>Upcoming Event</summary><br>
     <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
 </details> 
