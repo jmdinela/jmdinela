@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">Have some question or need help message me on my instagram and Gmail.</p>
+<p align="left">Have some question or need help message me on my <a href="https://www.instagram.com/in/morencloud/">Instagram</a> and <a href="https://www.linkedin.com/in/morencloud/">LinkedIn</a>.</p>
 
 ###
 
