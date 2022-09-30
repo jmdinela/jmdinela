@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">Hi 👋! My name is JOHN MOREN DINELA and I'm a student in EARIST-Manila pursuing Bachelor of Science in Information Technology, I worked as a Technical Support Representative that  help customers resolve technical problems associated with a product or service. I'm also become an ESL teacher in 51Talk to develop my skill in teaching ability and as of now I'm on my 6th National Certificate from Tesda which is Visual Graphic NCIII. It aim to enhance my knowledge in Front-end Dev.</p>
+<p align="center">Hi 👋! My name is JOHN MOREN DINELA from Philippines and I'm a student in EARIST-Manila pursuing Bachelor of Science in Information Technology, I worked as a Technical Support Representative that  help customers resolve technical problems associated with a product or service. As of now I'm on my 6th National Certificate which is Visual Graphic NCIII. It aim to enhance my knowledge in Front-end Dev and UX Design.</p>
 
 ###
 
