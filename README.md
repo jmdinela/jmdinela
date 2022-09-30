@@ -57,5 +57,9 @@
 ###
 
 <details><summary>Upcoming Event</summary><br>
+    <a href="https://www.hacksquad.dev/">HackSquad</a>
+</details> 
+
+<details><summary>Joined Event</summary><br>
     <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
 </details> 
