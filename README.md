@@ -55,6 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12185590609&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12185590609&redirect=true)
+
 ###
 
 <p align="left">Have some question or need help message me on my <a href="https://www.instagram.com/in/morencloud/">Instagram</a> and <a href="https://www.linkedin.com/in/morencloud/">LinkedIn</a>.</p>
@@ -68,3 +70,4 @@
 <details><summary>Joined Event</summary><br>
     <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
 </details> 
+
