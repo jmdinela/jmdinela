@@ -4,7 +4,9 @@
   </p>
 
 [![@morencloud's Holopin board](https://holopin.io/api/user/board?user=morencloud)](https://holopin.io/morencloud)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/morencloud)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/morencloud) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmdinela)
 
 
 - I'm a Info Tech student and I like to build project which solves someones problem.😀
@@ -42,8 +44,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jmdinela&label=Stalker%20Count&color=0e75b6&style=flat" alt="jmdinela" /> </p>
 
 <br>
-<h2 align="center">Blogs Post</h2>
+<h2 align="center">Contribution</h2>
 
+ <details><summary><b>Latest Blog Post</b></summary><br>
   
  [Github Field Day Philippines(Experience)](https://morencloud.hashnode.dev/github-field-day-in-the-philippines)
  
@@ -53,12 +56,12 @@
   
  [Want to be UX Designer?🔠](https://morencloudtools.hashnode.dev/want-to-be-ux-designer)
  
+  </details>
   
 
 
   
-  
-  
+<details><summary><b>Github Profile Stats 📊</b></summary><br>
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jmdinela&show_icons=true&theme=tokyonight" />
@@ -67,24 +70,21 @@
     <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
     <img src="https://github-profile-trophy.vercel.app/?username=jmdinela&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
+  ![jmdinela's github activity graph](https://activity-graph.herokuapp.com/graph?username=jmdinela&theme=react-dark)
+</details>
 
 
+<details><summary><b>Upcoming Event</b></summary><br>
+    <a href="https://www.hacksquad.dev/">HackSquad</a><br>
+    <a href="https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-2022-manila/">Google Devfest2022</a><br>
+</details> 
 
-
-![jmdinela's github activity graph](https://activity-graph.herokuapp.com/graph?username=jmdinela&theme=react-dark)
-
+<details><summary><b>Joined Event</b></summary><br>
+    <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
+</details> 
 
 ###
 
 <p align="left">Have some question or need help message me on my <a href="https://www.instagram.com/in/morencloud/">Instagram</a> and <a href="https://www.linkedin.com/in/morencloud/">LinkedIn</a>.</p>
 
 ###
-
-<details><summary>Upcoming Event</summary><br>
-    <a href="https://www.hacksquad.dev/">HackSquad</a><br>
-    <a href="https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-2022-manila/">Google Devfest2022</a><br>
-</details> 
-
-<details><summary>Joined Event</summary><br>
-    <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
-</details> 
