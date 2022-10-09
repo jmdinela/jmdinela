@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=380&height=45&lines=TECHSUPPORT+at+IBEX;INFOTECH+Student+at+EARIST;UX+Designer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
   </p>
 
-
+[![@morencloud's Holopin board](https://holopin.io/api/user/board?user=morencloud)](https://holopin.io/morencloud)
 
 
 
