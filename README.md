@@ -1,74 +1,90 @@
-<br clear="both">
+<h1 align="center"> <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50"> I'm John Moren <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="50"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=380&height=45&lines=TECHSUPPORT+at+IBEX;INFOTECH+Student+at+EARIST;UX+Designer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
+  </p>
 
-<h1 align="center">Hi 👋! Im am MOREN ! Welcome to my Github profile</h1>
+[![@morencloud's Holopin board](https://holopin.io/api/user/board?user=morencloud)](https://holopin.io/morencloud)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/morencloud)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/morencloud) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmdinela)
 
-###
 
+- I'm a Info Tech student and I like to build project which solves someones problem.😀
+
+- 🔭 I’m currently working on [Hacksquad](https://github.com/jmdinela/Hacksquad/)
+
+- 🌱 I’m currently learning **UX Designing**
+
+- 👨‍💻 All of my projects are available at [😎](https://github.com/jmdinela)
+
+- 📫 Reach out to me here **[📧](dinelajohnmoren@gmail.com)**
+
+- ⚡ Don’t hesitate to reach out if you’re interested in working with me, or just chatting over a cup of coffee.
+
+<br>
+<br>
+<br>
+
+<h3  align="center">Connect with me:</h3>
+<p  align="center">
+<a href="https://twitter.com/morencloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbhishek_k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jmdinela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmdinela" height="30" width="40" /></a>
+<a href="https://instagram.com/morencloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmdinela" height="30" width="40" /></a>
+
+
+
+</p>
+<br>
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmdinela&label=Stalker%20Count&color=0e75b6&style=flat" alt="jmdinela" /> </p>
+
+<br>
+<h2 align="center">Contribution</h2>
+
+ <details><summary><b>Latest Blog Post</b></summary><br>
+  
+ [Github Field Day Philippines(Experience)](https://morencloud.hashnode.dev/github-field-day-in-the-philippines)
+ 
+ [Why you should contribute to opensource? 📏](https://morencloudtools.hashnode.dev/why-you-should-contribute-to-opensource)
+ 
+ [GDG devfest ‘22 - Manila](https://morencloud.hashnode.dev/gdg-devfest-22-manila)
+  
+ [Want to be UX Designer?🔠](https://morencloudtools.hashnode.dev/want-to-be-ux-designer)
+ 
+  </details>
+  
+
+
+  
+<details><summary><b>Github Profile Stats 📊</b></summary><br>
 <div align="center">
-<a href="https://www.instagram.com/morencloud" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="dinelajohnmoren@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-
-<a href="https://www.linkedin.com/in/morencloud" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
+    <h2>Github Profile Stats 📊</h2>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jmdinela&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jmdinela&theme=tokyonight" /img>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmdinela&theme=radical&show_icons=true" />
+    <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=jmdinela&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
+  ![jmdinela's github activity graph](https://activity-graph.herokuapp.com/graph?username=jmdinela&theme=react-dark)
+</details>
 
-###
 
-<img align="right" height="200" src="https://sat02pap003files.storage.live.com/y4mw-JPUDkSRVVoyuxjW_FnUzhXkgBrG41pRf6kWwsiEdkJB3h76eAWWhld_WuluQngUWbzkZqDP5zGW-2MNxl9mbOn-z9ffFNnMcuAPB1MGzFsZS48uIXzpwYXEoJ1DkV0tlketOncIRZeSd7RuOeXAdIP-raakgHb8rE_ydp_fFg7pQt3YfehO7DwDl-c7vUv?width=1872&height=1639&cropmode=none"  />
+<details><summary><b>Upcoming Event</b></summary><br>
+    <a href="https://www.hacksquad.dev/">HackSquad</a><br>
+    <a href="https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-2022-manila/">Google Devfest2022</a><br>
+</details> 
 
-###
-
-<h1 align="left">About Me</h1>
-
-###
-
-<p align="center">Hi 👋! My name is JOHN MOREN DINELA from Philippines and I'm a student in EARIST-Manila pursuing Bachelor of Science in Information Technology, I worked as a Technical Support Representative that  help customers resolve technical problems associated with a product or service. As of now I'm on my 6th National Certificate which is Visual Graphic NCIII. It aim to enhance my knowledge in Front-end Dev and UX Design.</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="42" alt="google logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" width="42" alt="firefox logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="42" alt="linkedin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
-</div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12185590609&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12185590609&redirect=true)
+<details><summary><b>Joined Event</b></summary><br>
+    <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
+</details> 
 
 ###
 
 <p align="left">Have some question or need help message me on my <a href="https://www.instagram.com/in/morencloud/">Instagram</a> and <a href="https://www.linkedin.com/in/morencloud/">LinkedIn</a>.</p>
 
 ###
-
-<details><summary>Upcoming Event</summary><br>
-    <a href="https://www.hacksquad.dev/">HackSquad</a><br>
-    <a href="https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-2022-manila/">Google Devfest2022</a><br>
-</details> 
-
-<details><summary>Joined Event</summary><br>
-    <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
-</details> 
-
