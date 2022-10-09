@@ -4,9 +4,16 @@
   </p>
 
 [![@morencloud's Holopin board](https://holopin.io/api/user/board?user=morencloud)](https://holopin.io/morencloud)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/morencloud)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/morencloud) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmdinela)
+<a href="https://www.instagram.com/morencloud" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="dinelajohnmoren@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+<a href="https://www.linkedin.com/in/morencloud" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
 
 
 - I'm a Info Tech student and I like to build project which solves someones problem.😀
@@ -46,7 +53,7 @@
 <br>
 <h2 align="center">Contribution</h2>
 
- <details><summary><b>Latest Blog Post</b></summary><br>
+ <b>Latest Blog Post</b><br>
   
  [Github Field Day Philippines(Experience)](https://morencloud.hashnode.dev/github-field-day-in-the-philippines)
  
