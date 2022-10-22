@@ -82,6 +82,7 @@
 
 
 <details><summary><b>Upcoming Event</b></summary><br>
+    <a href="https://gdsc.community.dev/events/details/developer-student-clubs-pamantasan-ng-lungsod-ng-maynila-presents-gcpinas-learn-google-cloud">Google Cloud Pinas</a><br>
     <a href="https://www.hacksquad.dev/">HackSquad</a><br>
     <a href="https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-2022-manila/">Google Devfest2022</a><br>
 </details> 
