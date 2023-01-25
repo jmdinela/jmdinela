@@ -16,13 +16,17 @@
 </a>
 
 
-- I'm a Info Tech student and I like to build project which solves someones problem.😀
+- I'm an Info Tech student and I like to build project which solves someones problem.😀
 
-- 🔭 I’m currently working on [Hacksquad](https://github.com/jmdinela/Hacksquad/)
+- 🔭 PR and Marketing in [nocode.ph](https://nocode.ph)
+
+- 🧑🏼‍💻 Creative in Google Developer Group Cloud Manila
+
+- 🦊 Mozilla Philippines Volunteers 
+
+- 
 
 - 🌱 I’m currently learning **UX Designing**
-
-- 👨‍💻 All of my projects are available at [😎](https://github.com/jmdinela)
 
 - 📫 Reach out to me here **[📧](dinelajohnmoren@gmail.com)**
 
