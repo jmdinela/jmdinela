@@ -17,8 +17,9 @@
 
 
 - I'm an Info Tech student and I like to build project which solves someones problem.😀
-
-- 🧑 Web Developer at [Algo Filipino](https://algofilipino.com/)
+- 🧑🏼‍💻 VP for Membership for Students in [Devcon](https://devcon.ph/)
+- 👾 Community Director at [Algo Filipino](https://algofilipino.com/)
+- 🧑 Web Developer Intern at [TeraVision](https://algofilipino.com/)
 - 🔭 PR and Marketing in [nocode.ph](https://nocode.ph)
 
 - 🧑🏼‍💻 Creative in Google Developer Group Cloud Manila
