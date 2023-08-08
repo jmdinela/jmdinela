@@ -17,7 +17,7 @@
 
 
 - I'm an Info Tech student and I like to build project which solves someones problem.😀
-- 🧑🏼‍💻 Head of Students in [Devcon](https://devcon.ph/)
+- 🧑🏼‍💻 Head Students of [Devcon](https://devcon.ph/)
 - 👾 Community Director at [Algo Filipino](https://algofilipino.com/)
 - 🧑 Web Developer Intern at [TeraVision](https://algofilipino.com/)
 - 🔭 PR and Marketing in [nocode.ph](https://nocode.ph)
@@ -28,7 +28,7 @@
 
 - Ⓜ️ Microsoft Learn Student Ambassador
 
-- 🌱 I’m currently learning **UX Designing**
+- 🌱 Product Designer
 
 - 📫 Reach out to me here **[📧](dinelajohnmoren@gmail.com)**
 
