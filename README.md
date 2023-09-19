@@ -17,7 +17,7 @@
 
 
 - I'm an Info Tech student and I like to build project which solves someones problem.😀
-- 🧑🏼‍💻 Head Students of [Devcon](https://devcon.ph/)
+- 🧑🏼‍💻 Head Students of [Devcon Manila](https://devcon.ph/)
 - Ⓜ️ Microsoft Learn Student Ambassador
 - 👾 Community Director at [Algo Filipino](https://algofilipino.com/)
 - 🧑 Web Developer Intern at [TeraVision](https://algofilipino.com/)
