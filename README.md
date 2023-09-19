@@ -91,6 +91,7 @@
 </details> 
 
 <details><summary><b>Joined Event</b></summary><br>
+    <a href="https://www.gdsc.com/">Campus Devcon Summit</a><br>
     <a href="https://www.gdsc.com/">Open Source Contribution on Github</a><br>
     <a href="https://www.gdsc.com/">Diliman Solution Challenge</a><br>
   <a href="https://gdsc.community.dev/events/details/developer-student-clubs-pamantasan-ng-lungsod-ng-maynila-presents-gcpinas-learn-google-cloud">Google Cloud Pinas</a><br>
