@@ -22,11 +22,10 @@
 - 👾 Community Director at [Algo Filipino](https://algofilipino.com/)
 - 🧑 Web Developer Intern at [TeraVision](https://algofilipino.com/)
 - 🔭 PR and Marketing in [nocode.ph](https://nocode.ph)
-
 - 🧑🏼‍💻 Creative in Google Developer Group Cloud Manila
-- 🧑🏼‍💻 Graphic Designer in Women in AI, MongoDB Manila UG, Cereal Breakfast Jr. 
+- 🎨 Graphic Designer in Women in AI, MongoDB Manila UG, Cereal Breakfast Jr. 
 - 🦊 Mozilla Philippines Volunteers 
-- 🌱 Product Designer
+- 🌱 Freelance Product Designer 
 
 - 📫 Reach out to me here **[📧](dinelajohnmoren@gmail.com)**
 
