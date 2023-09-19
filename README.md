@@ -85,7 +85,7 @@
 
 
 <details><summary><b>Upcoming Event</b></summary><br>
-    
+    <a href="https://www.gdsc.com/">Devcon Pro Summit</a><br>
     
     
 </details> 
